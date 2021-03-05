@@ -1,9 +1,9 @@
-###Url
+### Url
 [Where my anagrams at?](https://www.codewars.com/kata/523a86aa4230ebb5420001e1)
-###Langage choisi
+### Langage choisi
 PHP, Javascript, Java, Python...
 
-###Solution
+### Solution
 ```
 Votre code ici
 ```

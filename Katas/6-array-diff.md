@@ -1,9 +1,9 @@
-###Url
+### Url
 [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009)
-###Langage choisi
+### Langage choisi
 PHP, Javascript, Java, Python...
 
-###Solution
+### Solution
 ```
 Votre code ici
 ```
