@@ -25,3 +25,5 @@ Vous serez jugé.e sur deux critères
 - Si votre solution ne passe pas tous les tests (ou engendre un timeout), soumettez la quand même, la tentative sera appréciée.
 - Les *Katas* dans le répertoire *./Katas* sont dans l'ordre **DÉCROISSANT** de difficulté, nous vous suggérons de commencer par la **FIN**
 - Si vous avez des questions, envoyez les à l'adresse mail [contact@copark.co](mailto:contact@copark.co) avec comme sujet "[Test technique] Questions"
+
+glhf :)
