@@ -6,11 +6,11 @@ Pour ce faire l'équipe Copark vous propose de compléter des exercices, appelé
 ### Instructions
 
 - Créer un profil sur [Codewars](https://www.codewars.com/)
-- Forker ce repository
+- Télécharger ce repository
 - Compléter les Katas présents dans le répertoire *./Katas*
 - Copier vos solutions dans les fichiers dédiés
 - Commiter vos modifications  
-- Envoyer le lien du fork à l'adresse mail [contact@copark.co](mailto:contact@copark.co) avec comme sujet "[Test technique] Solution"
+- Envoyer le zip du repository avec les solutions proposées à l'adresse mail [contact@copark.co](mailto:contact@copark.co) avec comme sujet "[Test technique] Solution"
 
 ### Critères d'évaluation
 
@@ -21,6 +21,7 @@ Vous serez jugé.e sur deux critères
 
 ### Précisions
 
+- Vous ne devez **PAS** publier le repository sur votre Github personnel, afin de ne pas influencer les autres candidats.
 - Vous n'êtes pas obligé de faire tous les *Katas*, seulement le maximum que vous pouvez faire.
 - Vous pouvez faire les *Katas* dans le langage que vous voulez (dans la limite des langages proposés par le Kata)
 - Si votre solution ne passe pas tous les tests (ou engendre un timeout), soumettez la quand même, la tentative sera appréciée.
